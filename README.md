@@ -4,7 +4,7 @@ El objetivo de este proyecto será la implementación del algoritmo de k-means p
 
 ## Parte 1: Implementación
 
-Implemente el algoritmo de k-means para clustering visto en clases.
+Implemente el algoritmo de k-means para clustering visto en clases, en el lenguaje de su preferencia.
 
 ## Parte 2: Iris Dataset
 
@@ -16,7 +16,7 @@ Utilice su implementación de k-means sobre el dataset `iris.csv`[1] usado en el
 
 Cada pixel en una imagen es un punto en un espacio tridimensional, conteniendo las intensidades de los canales de rojo, azul y verde (RGB). Por lo tanto, es posible ejecutar el algoritmo de k-means para asignar cada pixel en la imagen a uno de K clusters calculados. Si hacemos entonces una transformación, reemplazando cada pixel $x_i$ por el centroide $\mu_k$ del cluster al que fue asignado, entonces estaremos dibujando una nueva versión de la imagen, ahora usando una paleta de K colores.
 
-Seleccione dos imágenes de su preferencia, aplique el procedimiento descrito, y renderice la imagen resultante. Comente el resultado obtenido.
+Seleccione dos imágenes de su preferencia, aplique el procedimiento descrito con distintos valores de $k$, y renderice la imagen resultante. Comente el resultado obtenido.
 
 ## Entrega
 
