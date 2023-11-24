@@ -18,7 +18,7 @@ Cada pixel en una imagen es un punto en un espacio tridimensional, conteniendo l
 
 Seleccione dos imágenes de su preferencia, aplique el procedimiento descrito, y renderice la imagen resultante. Comente el resultado obtenido.
 
-##Entrega
+## Entrega
 
 Para la entrega del proyecto, haga fork de este repositorio. Su repositorio deberá contener todo el código usado para el proyecto, las imágenes generadas durante la Parte 3, y un informe discutiendo los detalles de su implementación, su proceso de preprocesamiento y su proceso de entrenamiento, así como las preguntas planteadas en el enunciado.
 
