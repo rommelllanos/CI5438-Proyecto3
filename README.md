@@ -1,4 +1,4 @@
-#CI5438 - Proyecto 3
+# CI5438 - Proyecto 3
 
 El objetivo de este proyecto será la implementación del algoritmo de k-means para clustering, y la evaluación del mismo en el conjunto de datos usado anteriormente, iris.csv, así como para segmentación de imágenes.
 
